@@ -53,7 +53,7 @@ To run the scripts in this project, follow these steps:
    - `model_training.py`
 
 ## GitHub Repository URL
-[Your GitHub URL]
+https://github.com/fshofi/Analyzing-the-Iris-Dataset
 
 Feel free to explore the repository and use the provided scripts for your own analysis and machine learning projects.
 
